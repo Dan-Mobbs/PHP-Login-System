@@ -14,13 +14,13 @@
                                                 <div class="col-md-6">
                                                     <div class="form-floating mb-3 mb-md-0">
                                                         <input class="form-control" id="inputFirstName" type="text" name="name" placeholder="Enter your first name" />
-                                                        <label for="inputFirstName">First name</label>
+                                                        <label for="inputFirstName">Name</label>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <div class="form-floating">
                                                         <input class="form-control" id="username" type="text" name="uid" placeholder="Enter your username" />
-                                                        <label for="inputLastName">Last name</label>
+                                                        <label for="inputLastName">Username</label>
                                                     </div>
                                                 </div>
                                             </div>
@@ -43,7 +43,7 @@
                                                 </div>
                                             </div>
                                             <div class="mt-4 mb-0">
-                                                <div class="d-grid"><button class="btn btn-primary btn-block" name="submit">Create Account</button></div>
+                                                <div class="d-grid"><button class="btn btn-primary btn-block" type="submit" name="submit">Create Account</button></div>
                                             </div>
                                         </form>
                                     </div>
